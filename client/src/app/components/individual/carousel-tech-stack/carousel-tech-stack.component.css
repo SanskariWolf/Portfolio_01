@@ -1,0 +1,75 @@
+.carousel-tech-stack {
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    background: #F5F5DC;
+    padding: 60px;
+}
+
+.arrow {
+    width: 25px;
+    height: 50px;
+    position: relative;
+    transform: rotate(180deg);
+}
+
+.vector {
+    width: 14.86px;
+    height: 27.02px;
+    position: absolute;
+    transform: rotate(-180deg);
+}
+
+.tech-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.icon {
+    width: 75px;
+    height: 76px;
+    position: relative;
+}
+
+.mingcute-web-fill {
+    /* Specific styles for Mingcute Web Fill icon */
+}
+
+.eos-icons-iot {
+    /* Specific styles for Eos Icons IoT icon */
+}
+
+.arcticons-sketchbook {
+    /* Specific styles for Arcticons Sketchbook icon */
+}
+
+.simple-icons-cyberdefenders {
+    /* Specific styles for Simple Icons Cyberdefenders icon */
+}
+
+.iconamoon-3d {
+    /* Specific styles for Iconamoon 3D icon */
+}
+
+.mdi-design {
+    /* Specific styles for MDI Design icon */
+}
+
+.title {
+    color: black;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.description {
+    color: black;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}

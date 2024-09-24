@@ -1,0 +1,110 @@
+.footer {
+    padding: 75px 90px;
+    background: #333333;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 120px;
+}
+
+.frame3 {
+    width: 173px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.quick-links {
+    align-self: stretch;
+    text-align: center;
+    color: #FF6F61;
+    font-size: 32px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+}
+
+.link {
+    align-self: stretch;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 100;
+}
+
+.line1 {
+    width: 300px;
+    height: 0;
+    transform: rotate(90.39deg);
+    transform-origin: 0 0;
+    border: 1px solid white;
+}
+
+.frame4 {
+    width: 789px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 37px;
+}
+
+.subscribe-to-my-blog {
+    align-self: stretch;
+    color: #FF6F61;
+    font-size: 32px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+}
+
+.group5 {
+    width: 789px;
+    height: 50px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.group1 {
+    width: 182px;
+    height: 50px;
+    position: relative;
+}
+
+.rectangle3 {
+    width: 182px;
+    height: 50px;
+    background: #FF6F61;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+}
+
+.group2 {
+    width: 577px;
+    height: 50px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.rectangle2 {
+    width: 577px;
+    height: 50px;
+    background: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    color: #333333;
+    font-size: 20px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    padding-left: 30px; /* Add padding to align text */
+}
